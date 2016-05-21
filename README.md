@@ -21,8 +21,11 @@
 
 ###个人资料收集地址
 ![入门实践](http://hiphotos.baidu.com/doc/pic/item/c83d70cf3bc79f3d5c1fc981bfa1cd11738b2980.jpg)
+
 *    [docker中文 docker手册 docker教程](http://www.docker.org.cn/book/docker/what-is-docker-16.html)
+
 *    [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1?fr=aladdin&key=docker%E5%85%A5%E9%97%A8%E5%AE%9E%E6%88%98###)
+
 *    [Docker终极指南](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1?pn=1&rf=http%3A%2F%2Fyuedu.baidu.com%2Febook%2Fd817967416fc700abb68fca1%3Ffr%3Daladdin%26key%3Ddocker%25E5%2585%25A5%25E9%2597%25A8%25E5%25AE%259E%25E6%2588%2598)
 
 
